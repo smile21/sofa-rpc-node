@@ -1,4 +1,31 @@
 
+1.13.0 / 2019-06-04
+==================
+
+**others**
+  * [[`fb29b09`](http://github.com/alipay/sofa-rpc-node/commit/fb29b09ad5f71fada3938aa35f2f1364cff76602)] - refactor: choose addresses in loadbalancer (#49) (zōng yǔ <<gxcsoccer@users.noreply.github.com>>)
+
+1.12.1 / 2019-05-06
+==================
+
+**fixes**
+  * [[`e800e19`](http://github.com/alipay/sofa-rpc-node/commit/e800e193726095f04993827c90c60b189e911d70)] - fix: grpc server crashes down when receives large request body (#45) (RabbitSion <<rabbitsion@gmail.com>>)
+
+1.12.0 / 2019-04-18
+==================
+
+**others**
+  * [[`905d628`](http://github.com/alipay/sofa-rpc-node/commit/905d62800cf0136ef16e52fbffee02264313f0da)] - refactor: quick ready not wait for connection (#43) (zōng yǔ <<gxcsoccer@users.noreply.github.com>>)
+
+1.11.0 / 2019-03-27
+==================
+
+**fixes**
+  * [[`cd54a3a`](http://github.com/alipay/sofa-rpc-node/commit/cd54a3a8be55aebd12cf7b0e086db8ef898f2d6b)] - fix: zk registry bug (#41) (zōng yǔ <<gxcsoccer@users.noreply.github.com>>)
+
+**others**
+  * [[`2439e1e`](http://github.com/alipay/sofa-rpc-node/commit/2439e1e0dca1065e0c328e4b8168f405ae2618cb)] - fix grpc bugs (#40) (zl <<1183163+smile21@users.noreply.github.com>>)
+
 1.10.0 / 2019-03-12
 ==================
 
